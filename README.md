@@ -1,8 +1,7 @@
-# React + Vite
+# ReactToDoApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+For this project I wanted to experiment with using basic React to make my apps
+more functional and tailwind to make css styling easier. This project uses 
+state hooks to keep track of the list of todos when they are added and 
+removed as well as keeping track of user input. The project was created 
+using vite.
